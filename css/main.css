@@ -1,0 +1,46 @@
+
+body{
+    background-color: palevioletred;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(124, 124, 234);
+    padding: 10px;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+dl {
+    background-color: rgb(124, 124, 234);
+    padding: 20px;
+    font-size: 1.15em;
+}
+
+dt {
+    font-weight: bold;
+    padding: 5px 5px;
+}
+
+dd {
+    padding: 5px 5px;
+    margin: 0;
+}
+
+
+
